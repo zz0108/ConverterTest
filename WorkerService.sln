@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceIntegrateSQS", "WorkerServiceIntegrateSQS\WorkerServiceIntegrateSQS.csproj", "{A1AEFFC6-129F-4CE7-8B58-EF59A431FE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.Domain", "WorkerService.Domain\WorkerService.Domain.csproj", "{4997E7ED-5EDC-4638-B32C-DA973E1555E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.Business", "WorkerService.Business\WorkerService.Business.csproj", "{82257245-40E2-4467-A3D8-A2EE0381379B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AEFFC6-129F-4CE7-8B58-EF59A431FE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AEFFC6-129F-4CE7-8B58-EF59A431FE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AEFFC6-129F-4CE7-8B58-EF59A431FE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AEFFC6-129F-4CE7-8B58-EF59A431FE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4997E7ED-5EDC-4638-B32C-DA973E1555E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4997E7ED-5EDC-4638-B32C-DA973E1555E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4997E7ED-5EDC-4638-B32C-DA973E1555E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4997E7ED-5EDC-4638-B32C-DA973E1555E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82257245-40E2-4467-A3D8-A2EE0381379B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82257245-40E2-4467-A3D8-A2EE0381379B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82257245-40E2-4467-A3D8-A2EE0381379B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82257245-40E2-4467-A3D8-A2EE0381379B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
